@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-18-social-links-profile/)
-<!-- - 📌 [Frontend Mentor Solution]() -->
+- 📌 [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-card-semantic-html-and-accessible-css-5lmXpDJnR8)
 
 ---
 
@@ -43,7 +43,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 | ![](./docs/mobile.avif) | ![](./docs/tablet.avif) |
 
 
-| 🖥️ Desktop | Interaction |
+| 🖥️ Desktop | 🖱️ Interaction |
 | --- | --- |
 | ![](./docs/desktop-default.avif) | ![](./docs/desktop-interaction.avif) |
 
