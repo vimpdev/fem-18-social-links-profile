@@ -1,121 +1,84 @@
-# Frontend Mentor - Social links profile solution
+# 🚀 Social Links Profile &ndash; Frontend Mentor
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/status-live-2ea44f)
 
-## Table of contents
+![](./docs/preview-github.png)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+A responsive social links profile card built with semantic HTML and modern CSS, focusing on accessibility, clean structure and maintainable styling.
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-### The challenge
+---
 
-Users should be able to:
+## 🎬 Demo
 
-- See hover and focus states for all interactive elements on the page
+![](./docs/demo.gif)
 
-### Screenshot
+---
 
-![](./screenshot.jpg)
+## 🔗 Links
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+- 🌎 [Live site](https://vimpdev.github.io/fem-18-social-links-profile/)
+<!-- - 📌 [Frontend Mentor Solution]() -->
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+---
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+## 🎯 Features
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- Semantic HTML structure
+- Accessible focus states using `:focus-visible`
+- Responsive layout using modern CSS (`clamp`, Grid)
+- Clean component structure with BEM methodology
+- Custom properties (CSS variables) for theming
 
-### Links
+---
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+## 📸 Screenshots
 
-## My process
+| 📱 Mobile | 📲 Tablet |
+| --- | --- |
+| ![](./docs/mobile.avif) | ![](./docs/tablet.avif) |
 
-### Built with
 
-- Semantic HTML5 markup
+| 🖥️ Desktop | Interaction |
+| --- | --- |
+| ![](./docs/desktop-default.avif) | ![](./docs/desktop-interaction.avif) |
+
+---
+
+## 🛠️ Built with
+
+- Semantic HTML5
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+---
 
-### What I learned
+## 🧠 What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Structuring components using **BEM naming conventions**
+- Writing **accessible HTML** (semantic elements, meaningful alt text, focus states)
+- Building responsive layouts with modern techniques like `clamp()` and `dvh`
+- Applying a **clean CSS architecture** (tokens, base, components, utilities)
 
-To see how you can add code snippets, see below:
+---
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+## 🤖 AI Collaboration
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+AI tools were used as a learning and review aid throughout this project:
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+- Supported code review and validation of best practices
+- Helped refine semantic HTML and accessibility decisions
+- Provided guidance on CSS structure and maintainability
 
-### Continued development
+All implementation and final decisions were made independently.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+## 👤 Author
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- Frontend Mentor &ndash; [@vimpdev](https://www.frontendmentor.io/profile/vimpdev)
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-### AI Collaboration
-
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+---
